@@ -1,0 +1,43 @@
+{
+  "basicdetails":{
+    "name":"sairam",
+    "image":"image.jpg",
+    "email":"sairam.d@apssdc.in",
+    "phone":"9999999999"
+  },
+  "education":[
+{
+  "course":"Degree(B.sc-computers)",
+  "college":"Modern Degree colege",
+  "percentage":"75%"
+},
+{
+  "course":"Intermediate(MPC)",
+  "college":"Modern junior college",
+  "percentage":"85%"
+},
+{
+  "course":"SSC",
+  "college":"ZPH School",
+  "percentage":"75%"
+}
+],
+"carrier":{
+  "carr":"seeking a challenging carrier opportunity which would be utilize my knowledge to the growth of the organization and upgrade my skills and utilize it in effective manner to the development & our organization goals."
+},
+"skills":[
+  {
+    "name":"Programming languages",
+    "value":"c,C++,Java,Python"
+  },
+  {
+    "name":"Operating Systems",
+    "value":"Windows,Ubuntu,MAC"
+  }
+],
+"Achevements":[
+  "I got first prize in Chess Compitation in our colege",
+  "I got second prize in PPT Presentation",
+  "I got second prize in Computational thinking"
+]
+}

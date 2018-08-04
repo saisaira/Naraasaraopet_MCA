@@ -1,0 +1,13 @@
+
+				<div id="title"></div>
+				<div id="subTitle"></div>
+				<div id="childTitle"></div>
+				<div id="excel"></div>
+				<div id="back"></div>
+				<table class="table table-bordered table-hovers" id="tableDiv">
+					<thead style="background-color: #337ab7;" id="tableHead">
+					</thead>
+					<tbody id="tableBody">
+					</tbody>
+				</table>
+			
